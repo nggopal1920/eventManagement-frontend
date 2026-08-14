@@ -89,7 +89,7 @@ export default function App() {
                   required
                   value={loginName}
                   onChange={(e) => setLoginName(e.target.value)}
-                  placeholder="e.g. Monika Rajput"
+                  placeholder="e.g. Username"
                   className="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-indigo-500 focus:bg-white focus:outline-none text-sm transition"
                 />
               </div>
@@ -100,7 +100,7 @@ export default function App() {
                   required
                   value={loginEmail}
                   onChange={(e) => setLoginEmail(e.target.value)}
-                  placeholder="name@example.com"
+                  placeholder="you@gmail.com"
                   className="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-indigo-500 focus:bg-white focus:outline-none text-sm transition"
                 />
               </div>
