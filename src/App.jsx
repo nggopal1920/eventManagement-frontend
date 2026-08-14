@@ -207,11 +207,11 @@ export default function App() {
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
           <div>
             <p className="font-semibold text-slate-700">EventPulse Ticketing Ecosystem &copy; 2026</p>
-            <p className="text-slate-400 text-[11px] mt-0.5">Powered by React, Tailwind CSS & MySQL Database Backend</p>
+            <p className="text-slate-400 text-[11px] mt-0.5">Powered by React, Tailwind CSS, Node.js & MySQL Database</p>
           </div>
           <div className="flex items-center space-x-4 bg-slate-50 px-4 py-2 rounded-xl border border-slate-200">
             <span className="font-medium text-slate-600">Developer / Manager Info:</span>
-            <span className="text-indigo-600 font-bold">Monika Rajput</span>
+            <span className="text-indigo-600 font-bold">Gopal Kumar</span>
           </div>
         </div>
       </footer>
