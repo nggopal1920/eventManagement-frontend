@@ -210,7 +210,7 @@ export default function App() {
             <p className="text-slate-400 text-[11px] mt-0.5">Powered by React, Tailwind CSS, Node.js & MySQL Database</p>
           </div>
           <div className="flex items-center space-x-4 bg-slate-50 px-4 py-2 rounded-xl border border-slate-200">
-            <span className="font-medium text-slate-600">Developer / Manager Info:</span>
+            <span className="font-medium text-slate-600">Developer / Manage by:</span>
             <span className="text-indigo-600 font-bold">Gopal Kumar</span>
           </div>
         </div>
