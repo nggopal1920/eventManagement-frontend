@@ -79,7 +79,7 @@ export default function OrganizerDashboard() {
             Organizer Portal
           </span>
           <h1 className="text-2xl font-black text-slate-900 mt-2">Dashboard (Event-Create)</h1>
-          <p className="text-xs text-slate-500 mt-0.5">Create events and store them directly in your Accoutn</p>
+          <p className="text-xs text-slate-500 mt-0.5">Create events and store them directly in your Account</p>
         </div>
         <button
           onClick={() => setShowModal(true)}
