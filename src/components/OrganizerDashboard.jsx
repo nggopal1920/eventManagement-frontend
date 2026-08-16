@@ -78,8 +78,8 @@ export default function OrganizerDashboard() {
           <span className="bg-emerald-50 text-emerald-600 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             Organizer Portal
           </span>
-          <h1 className="text-2xl font-black text-slate-900 mt-2">Dashboard (MySQL Connected)</h1>
-          <p className="text-xs text-slate-500 mt-0.5">Create events and store them directly in your MySQL database</p>
+          <h1 className="text-2xl font-black text-slate-900 mt-2">Dashboard (Event-Create)</h1>
+          <p className="text-xs text-slate-500 mt-0.5">Create events and store them directly in your Accoutn</p>
         </div>
         <button
           onClick={() => setShowModal(true)}
