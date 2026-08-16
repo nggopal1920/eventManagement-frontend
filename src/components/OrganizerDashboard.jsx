@@ -62,7 +62,7 @@ export default function OrganizerDashboard() {
       }
     } catch (err) {
       console.error('Server error:', err);
-      alert("Backend server से connect nahi ho pa raha hai.");
+      alert("Backend is not connected.");
     }
   };
 
